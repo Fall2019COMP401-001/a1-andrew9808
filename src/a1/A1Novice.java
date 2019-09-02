@@ -1,4 +1,4 @@
-package a1;
+wwpackage a1;
 
 import java.util.Scanner;
 
